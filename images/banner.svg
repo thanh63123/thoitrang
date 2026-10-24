@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" font-family="Arial, Tahoma, sans-serif">
+  <rect width="1200" height="400" fill="#1e323d"/>
+  <path d="M 0 0 L 1200 0 L 1200 400 L 520 400 Z" fill="#263e4c"/>
+  <circle cx="1060" cy="70" r="210" fill="#c8745a" opacity="0.16"/>
+  <circle cx="820" cy="360" r="170" fill="#f0b49e" opacity="0.12"/>
+  <path d="M 0 352 Q 280 306 580 358 T 1200 324 L 1200 400 L 0 400 Z" fill="#16252e"/>
+  <path d="M 610 0 L 680 0 L 560 400 L 490 400 Z" fill="#ffffff" opacity="0.03"/>
+
+  <rect x="50" y="34" width="350" height="32" rx="16" fill="#2b4352" stroke="#f0b49e" stroke-width="1.2"/>
+  <circle cx="70" cy="50" r="5" fill="#f0b49e"/>
+  <text x="86" y="55" font-size="13" font-weight="bold" fill="#f0b49e" letter-spacing="1.2">DỰ ÁN THỜI TRANG SINH VIÊN · 2026</text>
+
+  <rect x="516" y="34" width="134" height="32" rx="16" fill="#e0a43a"/>
+  <text x="583" y="55" font-size="14" font-weight="bold" fill="#1e323d" text-anchor="middle">SợiTrẻ Studio</text>
+
+  <text x="50" y="134" font-size="68" font-weight="bold" fill="#ffffff">Sợi <tspan fill="#f0b49e">Trẻ</tspan></text>
+  <path d="M 315 106 Q 365 82 415 108 T 505 98" fill="none" stroke="#e0a43a" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="505" cy="98" r="4.5" fill="#e0a43a"/>
+
+  <text x="50" y="176" font-size="19.5" font-weight="bold" fill="#faf6f0">Thời trang do sinh viên thiết kế – Cho giảng đường &amp; phố thị</text>
+
+  <rect x="50" y="196" width="600" height="74" rx="10" fill="#16252e" stroke="#c8745a" stroke-width="1.5"/>
+  <rect x="58" y="206" width="6" height="54" rx="3" fill="#e0a43a"/>
+  <text x="76" y="228" font-size="19.5" font-weight="bold" fill="#ffffff">“Dệt chất riêng từ giảng đường – Tự tin bước xuống phố”</text>
+  <text x="76" y="255" font-size="15" fill="#f0b49e">Từ nét vẽ sinh viên đến tủ đồ hằng ngày · Bền bỉ, thoáng mát, vừa túi tiền</text>
+
+  <rect x="50" y="292" width="216" height="44" rx="8" fill="#c8745a"/>
+  <text x="158" y="320" font-size="17" font-weight="bold" fill="#ffffff" text-anchor="middle">BST Phố Mưa · Gió Lụa</text>
+
+  <rect x="280" y="292" width="180" height="44" rx="8" fill="#243a47" stroke="#f0b49e" stroke-width="1.5"/>
+  <text x="370" y="320" font-size="16" font-weight="bold" fill="#faf6f0" text-anchor="middle">6 Mẫu Nam &amp; Nữ</text>
+
+  <rect x="474" y="292" width="176" height="44" rx="8" fill="#243a47" stroke="#e0a43a" stroke-width="1.5"/>
+  <text x="562" y="320" font-size="16" font-weight="bold" fill="#e0a43a" text-anchor="middle">5 Size: S – XXL</text>
+
+  <g transform="translate(680, 34)">
+    <rect x="0" y="0" width="225" height="332" rx="16" fill="#223642" stroke="#6c8c9c" stroke-width="2"/>
+    <rect x="14" y="14" width="197" height="28" rx="6" fill="#2f4858"/>
+    <text x="112.5" y="33" font-size="12.5" font-weight="bold" fill="#b8dce8" text-anchor="middle">BST PHỐ MƯA · NAM &amp; NỮ</text>
+
+    <path d="M 87 64 Q 112.5 48 138 64 L 148 84 L 184 98 L 172 178 L 152 174 L 152 232 L 73 232 L 73 174 L 53 178 L 41 98 L 77 84 Z" fill="#526b7a" stroke="#d5e3ec" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M 93 66 Q 112.5 54 132 66 L 128 88 L 97 88 Z" fill="#374c59" stroke="#d5e3ec" stroke-width="1.5"/>
+    <line x1="112.5" y1="88" x2="112.5" y2="232" stroke="#7fb096" stroke-width="3.5"/>
+    <rect x="81" y="162" width="22" height="32" rx="3" fill="#415866" stroke="#a8d0db" stroke-width="1.2"/>
+    <rect x="122" y="162" width="22" height="32" rx="3" fill="#415866" stroke="#a8d0db" stroke-width="1.2"/>
+    <text x="112.5" y="274" font-size="15.5" font-weight="bold" fill="#ffffff" text-anchor="middle">Áo Khoác Dù Mưa Bụi</text>
+    <text x="112.5" y="298" font-size="12.5" fill="#b8dce8" text-anchor="middle">Vải dù tái chế · Chống mưa nhẹ</text>
+  </g>
+
+  <g transform="translate(925, 34)">
+    <rect x="0" y="0" width="225" height="332" rx="16" fill="#faf6f0" stroke="#c8745a" stroke-width="2.5"/>
+    <rect x="14" y="14" width="197" height="28" rx="6" fill="#c8745a"/>
+    <text x="112.5" y="33" font-size="12.5" font-weight="bold" fill="#ffffff" text-anchor="middle">BST GIÓ LỤA · NÉT VIỆT</text>
+
+    <path d="M 94 64 L 131 64 L 137 76 L 161 86 L 149 120 L 139 116 L 155 234 L 117 234 L 112.5 172 L 108 234 L 70 234 L 86 116 L 76 120 L 64 86 L 88 76 Z" fill="#fffdf9" stroke="#2f4858" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M 96 64 Q 112.5 74 129 64" fill="none" stroke="#c8745a" stroke-width="2"/>
+    <circle cx="126" cy="172" r="9" fill="#c8745a" opacity="0.85"/>
+    <circle cx="138" cy="192" r="7" fill="#e0a43a" opacity="0.85"/>
+    <circle cx="118" cy="204" r="8" fill="#c8745a" opacity="0.75"/>
+    <path d="M 118 224 Q 126 196 126 172 M 130 224 Q 138 206 138 192" stroke="#5b7a5e" stroke-width="2" fill="none"/>
+
+    <text x="112.5" y="274" font-size="15.5" font-weight="bold" fill="#2f4858" text-anchor="middle">Chiều Hồ Tây &amp; Hoa Sữa</text>
+    <text x="112.5" y="298" font-size="12.5" fill="#8a4426" text-anchor="middle">Lụa pha &amp; Linen · Thêu tay tinh tế</text>
+  </g>
+</svg>

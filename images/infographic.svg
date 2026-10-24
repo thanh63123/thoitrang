@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" font-family="Arial, Tahoma, sans-serif">
+  <rect width="800" height="1000" fill="#faf6f0"/>
+
+  <rect width="800" height="106" fill="#2f4858"/>
+  <text x="400" y="48" font-size="30" font-weight="bold" fill="#ffffff" text-anchor="middle">HƯỚNG DẪN ĐO &amp; BẢNG SIZE ĐỀ XUẤT</text>
+  <text x="400" y="82" font-size="17" fill="#f0b49e" text-anchor="middle">4 bước chọn size chuẩn · Đầy đủ 5 size S, M, L, XL, XXL cho Nữ và Nam</text>
+
+  <g transform="translate(30, 122)">
+    <rect x="0" y="0" width="358" height="106" rx="10" fill="#ffffff" stroke="#d5cbbd" stroke-width="2"/>
+    <circle cx="42" cy="53" r="24" fill="#c8745a"/>
+    <text x="42" y="61" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle">1</text>
+    <text x="80" y="36" font-size="19" font-weight="bold" fill="#2f4858">Chuẩn bị thước dây</text>
+    <text x="80" y="62" font-size="14.5" fill="#2b2b2b">Mặc đồ mỏng nhẹ, đứng thẳng tự nhiên,</text>
+    <text x="80" y="84" font-size="14.5" fill="#2b2b2b">hai chân khép nhẹ và thả lỏng hai vai.</text>
+  </g>
+
+  <g transform="translate(412, 122)">
+    <rect x="0" y="0" width="358" height="106" rx="10" fill="#ffffff" stroke="#d5cbbd" stroke-width="2"/>
+    <circle cx="42" cy="53" r="24" fill="#c8745a"/>
+    <text x="42" y="61" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle">2</text>
+    <text x="80" y="36" font-size="19" font-weight="bold" fill="#2f4858">Đo 3 vòng cơ thể</text>
+    <text x="80" y="62" font-size="14.5" fill="#2b2b2b">Ngực: nơi nở nhất · Eo: chỗ nhỏ nhất</text>
+    <text x="80" y="84" font-size="14.5" fill="#2b2b2b">Mông: nơi nở nhất, thước đặt ngang.</text>
+  </g>
+
+  <g transform="translate(30, 240)">
+    <rect x="0" y="0" width="358" height="106" rx="10" fill="#ffffff" stroke="#d5cbbd" stroke-width="2"/>
+    <circle cx="42" cy="53" r="24" fill="#2f4858"/>
+    <text x="42" y="61" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle">3</text>
+    <text x="80" y="36" font-size="19" font-weight="bold" fill="#2f4858">Đối chiếu bảng Nam / Nữ</text>
+    <text x="80" y="62" font-size="14.5" fill="#2b2b2b">Áo ưu tiên chiều cao &amp; vòng ngực;</text>
+    <text x="80" y="84" font-size="14.5" fill="#2b2b2b">quần và chân váy ưu tiên vòng eo &amp; mông.</text>
+  </g>
+
+  <g transform="translate(412, 240)">
+    <rect x="0" y="0" width="358" height="106" rx="10" fill="#ffffff" stroke="#d5cbbd" stroke-width="2"/>
+    <circle cx="42" cy="53" r="24" fill="#2f4858"/>
+    <text x="42" y="61" font-size="24" font-weight="bold" fill="#ffffff" text-anchor="middle">4</text>
+    <text x="80" y="36" font-size="19" font-weight="bold" fill="#2f4858">Nằm giữa 2 size?</text>
+    <text x="80" y="62" font-size="14.5" fill="#2b2b2b">Thích rộng thoải mái: chọn size lớn hơn.</text>
+    <text x="80" y="84" font-size="14.5" fill="#2b2b2b">Thích vừa vặn ôm gọn: chọn size nhỏ hơn.</text>
+  </g>
+
+  <g transform="translate(30, 362)">
+    <rect x="0" y="0" width="740" height="36" rx="8" fill="#c8745a"/>
+    <text x="370" y="24" font-size="17" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">BẢNG SIZE ĐỀ XUẤT CHO NỮ (5 SIZE: S – XXL)</text>
+
+    <rect x="0" y="38" width="740" height="34" fill="#fbe6d6" stroke="#d6cbbd" stroke-width="1"/>
+    <text x="40" y="60" font-size="14" font-weight="bold" fill="#8a4426" text-anchor="middle">Size</text>
+    <text x="146" y="60" font-size="14" font-weight="bold" fill="#8a4426" text-anchor="middle">Chiều cao (cm)</text>
+    <text x="278" y="60" font-size="14" font-weight="bold" fill="#8a4426" text-anchor="middle">Cân nặng (kg)</text>
+    <text x="410" y="60" font-size="14" font-weight="bold" fill="#8a4426" text-anchor="middle">Vòng ngực (cm)</text>
+    <text x="542" y="60" font-size="14" font-weight="bold" fill="#8a4426" text-anchor="middle">Vòng eo (cm)</text>
+    <text x="674" y="60" font-size="14" font-weight="bold" fill="#8a4426" text-anchor="middle">Vòng mông (cm)</text>
+
+    <rect x="0" y="72" width="740" height="34" fill="#ffffff" stroke="#d6cbbd" stroke-width="1"/>
+    <text x="40" y="94" font-size="15" font-weight="bold" fill="#c8745a" text-anchor="middle">S</text>
+    <text x="146" y="94" font-size="15" fill="#2b2b2b" text-anchor="middle">150 – 155</text>
+    <text x="278" y="94" font-size="15" fill="#2b2b2b" text-anchor="middle">40 – 46</text>
+    <text x="410" y="94" font-size="15" fill="#2b2b2b" text-anchor="middle">78 – 82</text>
+    <text x="542" y="94" font-size="15" fill="#2b2b2b" text-anchor="middle">60 – 64</text>
+    <text x="674" y="94" font-size="15" fill="#2b2b2b" text-anchor="middle">84 – 88</text>
+
+    <rect x="0" y="106" width="740" height="34" fill="#fdf9f4" stroke="#d6cbbd" stroke-width="1"/>
+    <text x="40" y="128" font-size="15" font-weight="bold" fill="#c8745a" text-anchor="middle">M</text>
+    <text x="146" y="128" font-size="15" fill="#2b2b2b" text-anchor="middle">155 – 160</text>
+    <text x="278" y="128" font-size="15" fill="#2b2b2b" text-anchor="middle">46 – 52</text>
+    <text x="410" y="128" font-size="15" fill="#2b2b2b" text-anchor="middle">82 – 86</text>
+    <text x="542" y="128" font-size="15" fill="#2b2b2b" text-anchor="middle">64 – 68</text>
+    <text x="674" y="128" font-size="15" fill="#2b2b2b" text-anchor="middle">88 – 92</text>
+
+    <rect x="0" y="140" width="740" height="34" fill="#ffffff" stroke="#d6cbbd" stroke-width="1"/>
+    <text x="40" y="162" font-size="15" font-weight="bold" fill="#c8745a" text-anchor="middle">L</text>
+    <text x="146" y="162" font-size="15" fill="#2b2b2b" text-anchor="middle">160 – 165</text>
+    <text x="278" y="162" font-size="15" fill="#2b2b2b" text-anchor="middle">52 – 58</text>
+    <text x="410" y="162" font-size="15" fill="#2b2b2b" text-anchor="middle">86 – 90</text>
+    <text x="542" y="162" font-size="15" fill="#2b2b2b" text-anchor="middle">68 – 72</text>
+    <text x="674" y="162" font-size="15" fill="#2b2b2b" text-anchor="middle">92 – 96</text>
+
+    <rect x="0" y="174" width="740" height="34" fill="#fdf9f4" stroke="#d6cbbd" stroke-width="1"/>
+    <text x="40" y="196" font-size="15" font-weight="bold" fill="#c8745a" text-anchor="middle">XL</text>
+    <text x="146" y="196" font-size="15" fill="#2b2b2b" text-anchor="middle">165 – 170</text>
+    <text x="278" y="196" font-size="15" fill="#2b2b2b" text-anchor="middle">58 – 64</text>
+    <text x="410" y="196" font-size="15" fill="#2b2b2b" text-anchor="middle">90 – 95</text>
+    <text x="542" y="196" font-size="15" fill="#2b2b2b" text-anchor="middle">72 – 77</text>
+    <text x="674" y="196" font-size="15" fill="#2b2b2b" text-anchor="middle">96 – 101</text>
+
+    <rect x="0" y="208" width="740" height="34" fill="#ffffff" stroke="#d6cbbd" stroke-width="1"/>
+    <text x="40" y="230" font-size="15" font-weight="bold" fill="#c8745a" text-anchor="middle">XXL</text>
+    <text x="146" y="230" font-size="15" fill="#2b2b2b" text-anchor="middle">168 – 175</text>
+    <text x="278" y="230" font-size="15" fill="#2b2b2b" text-anchor="middle">64 – 72</text>
+    <text x="410" y="230" font-size="15" fill="#2b2b2b" text-anchor="middle">95 – 100</text>
+    <text x="542" y="230" font-size="15" fill="#2b2b2b" text-anchor="middle">77 – 83</text>
+    <text x="674" y="230" font-size="15" fill="#2b2b2b" text-anchor="middle">101 – 106</text>
+
+    <line x1="80" y1="38" x2="80" y2="242" stroke="#d6cbbd" stroke-width="1"/>
+    <line x1="212" y1="38" x2="212" y2="242" stroke="#d6cbbd" stroke-width="1"/>
+    <line x1="344" y1="38" x2="344" y2="242" stroke="#d6cbbd" stroke-width="1"/>
+    <line x1="476" y1="38" x2="476" y2="242" stroke="#d6cbbd" stroke-width="1"/>
+    <line x1="608" y1="38" x2="608" y2="242" stroke="#d6cbbd" stroke-width="1"/>
+  </g>
+
+  <g transform="translate(30, 622)">
+    <rect x="0" y="0" width="740" height="36" rx="8" fill="#2f4858"/>
+    <text x="370" y="24" font-size="17" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">BẢNG SIZE ĐỀ XUẤT CHO NAM (5 SIZE: S – XXL)</text>
+
+    <rect x="0" y="38" width="740" height="34" fill="#e3ecf0" stroke="#c5d1d8" stroke-width="1"/>
+    <text x="40" y="60" font-size="14" font-weight="bold" fill="#1e323d" text-anchor="middle">Size</text>
+    <text x="146" y="60" font-size="14" font-weight="bold" fill="#1e323d" text-anchor="middle">Chiều cao (cm)</text>
+    <text x="278" y="60" font-size="14" font-weight="bold" fill="#1e323d" text-anchor="middle">Cân nặng (kg)</text>
+    <text x="410" y="60" font-size="14" font-weight="bold" fill="#1e323d" text-anchor="middle">Vòng ngực (cm)</text>
+    <text x="542" y="60" font-size="14" font-weight="bold" fill="#1e323d" text-anchor="middle">Vòng eo (cm)</text>
+    <text x="674" y="60" font-size="14" font-weight="bold" fill="#1e323d" text-anchor="middle">Vòng mông (cm)</text>
+
+    <rect x="0" y="72" width="740" height="34" fill="#ffffff" stroke="#c5d1d8" stroke-width="1"/>
+    <text x="40" y="94" font-size="15" font-weight="bold" fill="#2f4858" text-anchor="middle">S</text>
+    <text x="146" y="94" font-size="15" fill="#2b2b2b" text-anchor="middle">160 – 165</text>
+    <text x="278" y="94" font-size="15" fill="#2b2b2b" text-anchor="middle">50 – 56</text>
+    <text x="410" y="94" font-size="15" fill="#2b2b2b" text-anchor="middle">86 – 90</text>
+    <text x="542" y="94" font-size="15" fill="#2b2b2b" text-anchor="middle">70 – 74</text>
+    <text x="674" y="94" font-size="15" fill="#2b2b2b" text-anchor="middle">88 – 92</text>
+
+    <rect x="0" y="106" width="740" height="34" fill="#f4f8fa" stroke="#c5d1d8" stroke-width="1"/>
+    <text x="40" y="128" font-size="15" font-weight="bold" fill="#2f4858" text-anchor="middle">M</text>
+    <text x="146" y="128" font-size="15" fill="#2b2b2b" text-anchor="middle">165 – 170</text>
+    <text x="278" y="128" font-size="15" fill="#2b2b2b" text-anchor="middle">56 – 63</text>
+    <text x="410" y="128" font-size="15" fill="#2b2b2b" text-anchor="middle">90 – 94</text>
+    <text x="542" y="128" font-size="15" fill="#2b2b2b" text-anchor="middle">74 – 78</text>
+    <text x="674" y="128" font-size="15" fill="#2b2b2b" text-anchor="middle">92 – 96</text>
+
+    <rect x="0" y="140" width="740" height="34" fill="#ffffff" stroke="#c5d1d8" stroke-width="1"/>
+    <text x="40" y="162" font-size="15" font-weight="bold" fill="#2f4858" text-anchor="middle">L</text>
+    <text x="146" y="162" font-size="15" fill="#2b2b2b" text-anchor="middle">170 – 175</text>
+    <text x="278" y="162" font-size="15" fill="#2b2b2b" text-anchor="middle">63 – 70</text>
+    <text x="410" y="162" font-size="15" fill="#2b2b2b" text-anchor="middle">94 – 98</text>
+    <text x="542" y="162" font-size="15" fill="#2b2b2b" text-anchor="middle">78 – 82</text>
+    <text x="674" y="162" font-size="15" fill="#2b2b2b" text-anchor="middle">96 – 100</text>
+
+    <rect x="0" y="174" width="740" height="34" fill="#f4f8fa" stroke="#c5d1d8" stroke-width="1"/>
+    <text x="40" y="196" font-size="15" font-weight="bold" fill="#2f4858" text-anchor="middle">XL</text>
+    <text x="146" y="196" font-size="15" fill="#2b2b2b" text-anchor="middle">175 – 180</text>
+    <text x="278" y="196" font-size="15" fill="#2b2b2b" text-anchor="middle">70 – 78</text>
+    <text x="410" y="196" font-size="15" fill="#2b2b2b" text-anchor="middle">98 – 103</text>
+    <text x="542" y="196" font-size="15" fill="#2b2b2b" text-anchor="middle">82 – 87</text>
+    <text x="674" y="196" font-size="15" fill="#2b2b2b" text-anchor="middle">100 – 105</text>
+
+    <rect x="0" y="208" width="740" height="34" fill="#ffffff" stroke="#c5d1d8" stroke-width="1"/>
+    <text x="40" y="230" font-size="15" font-weight="bold" fill="#2f4858" text-anchor="middle">XXL</text>
+    <text x="146" y="230" font-size="15" fill="#2b2b2b" text-anchor="middle">178 – 185</text>
+    <text x="278" y="230" font-size="15" fill="#2b2b2b" text-anchor="middle">78 – 86</text>
+    <text x="410" y="230" font-size="15" fill="#2b2b2b" text-anchor="middle">103 – 108</text>
+    <text x="542" y="230" font-size="15" fill="#2b2b2b" text-anchor="middle">87 – 93</text>
+    <text x="674" y="230" font-size="15" fill="#2b2b2b" text-anchor="middle">105 – 110</text>
+
+    <line x1="80" y1="38" x2="80" y2="242" stroke="#c5d1d8" stroke-width="1"/>
+    <line x1="212" y1="38" x2="212" y2="242" stroke="#c5d1d8" stroke-width="1"/>
+    <line x1="344" y1="38" x2="344" y2="242" stroke="#c5d1d8" stroke-width="1"/>
+    <line x1="476" y1="38" x2="476" y2="242" stroke="#c5d1d8" stroke-width="1"/>
+    <line x1="608" y1="38" x2="608" y2="242" stroke="#c5d1d8" stroke-width="1"/>
+  </g>
+
+  <rect x="30" y="882" width="740" height="92" rx="12" fill="#ffffff" stroke="#c8745a" stroke-width="2.5"/>
+  <rect x="42" y="896" width="6" height="64" rx="3" fill="#c8745a"/>
+  <text x="62" y="916" font-size="17" font-weight="bold" fill="#2f4858">Mẹo chọn nhanh theo phom dáng Sợi Trẻ:</text>
+  <text x="62" y="942" font-size="15" fill="#2b2b2b">• Áo khoác dù Mưa Bụi có phom rộng (oversize): muốn mặc gọn có thể chọn lùi 1 size.</text>
+  <text x="62" y="964" font-size="15" fill="#2b2b2b">• Chưa chắc chắn về số đo? Gửi chiều cao &amp; vòng đo tại trang Liên hệ để nhóm tư vấn.</text>
+</svg>
+

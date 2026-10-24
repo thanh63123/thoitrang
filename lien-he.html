@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gửi yêu cầu tư vấn mẫu và kích thước – Sợi Trẻ</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="dau-trang">
+    <div class="khung">
+      <a class="logo" href="index.html">Sợi<span>Trẻ</span></a>
+      <nav class="menu" aria-label="Menu chính">
+        <ul>
+          <li><a href="index.html">Trang chủ</a></li>
+          <li><a href="gioi-thieu.html">Giới thiệu</a></li>
+          <li><a href="phong-cach.html">Phong cách</a></li>
+          <li><a href="bo-suu-tap.html">Bộ sưu tập</a></li>
+          <li><a href="chat-lieu.html">Chất liệu</a></li>
+          <li><a href="kich-thuoc.html">Kích thước</a></li>
+          <li><a href="thu-vien.html">Thư viện</a></li>
+          <li><a href="hoi-dap.html">Hỏi đáp</a></li>
+          <li><a href="lien-he.html" class="dang-xem" aria-current="page">Liên hệ</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="khung">
+    <p class="duong-dan"><a href="index.html">Trang chủ</a> / Liên hệ</p>
+    <h1>Gửi yêu cầu tư vấn mẫu và kích thước</h1>
+    <p>Cho chúng mình biết bạn thích mẫu nào và số đo của bạn, nhóm sẽ gợi ý size phù hợp. Các ô có dấu * là bắt buộc.</p>
+
+    <div class="luoi-2">
+      <section>
+        <h2>Form tư vấn</h2>
+        <form id="form-tu-van" novalidate>
+          <div class="o-nhap">
+            <label for="ho-ten">Họ và tên *</label>
+            <input type="text" id="ho-ten" name="ho-ten" required minlength="2" maxlength="50" aria-describedby="loi-ho-ten">
+            <p id="loi-ho-ten" class="bao-loi"></p>
+          </div>
+
+          <div class="o-nhap">
+            <label for="email">Email *</label>
+            <input type="email" id="email" name="email" required maxlength="80" placeholder="vidu@gmail.com" aria-describedby="loi-email">
+            <p id="loi-email" class="bao-loi"></p>
+          </div>
+
+          <fieldset class="o-nhap nhom-radio">
+            <legend>Bạn cần gì? *</legend>
+            <input type="radio" id="muc-dich-1" name="muc-dich" value="tu-van-size" required>
+            <label for="muc-dich-1">Tư vấn size</label>
+            <input type="radio" id="muc-dich-2" name="muc-dich" value="hoi-mau">
+            <label for="muc-dich-2">Hỏi về mẫu</label>
+            <input type="radio" id="muc-dich-3" name="muc-dich" value="tham-gia">
+            <label for="muc-dich-3">Muốn tham gia nhóm</label>
+            <p id="loi-muc-dich" class="bao-loi"></p>
+          </fieldset>
+
+          <div class="o-nhap">
+            <label for="mau-quan-tam">Mẫu bạn quan tâm *</label>
+            <select id="mau-quan-tam" name="mau-quan-tam" required aria-describedby="loi-mau-quan-tam">
+              <option value="">-- Chọn một mẫu --</option>
+              <option value="mua-bui">Áo khoác dù Mưa Bụi</option>
+              <option value="ngo-nho">Quần túi hộp Ngõ Nhỏ</option>
+              <option value="vung-nuoc">Áo thun Vũng Nước</option>
+              <option value="chieu-ho-tay">Áo dài cách tân Chiều Hồ Tây</option>
+              <option value="hoa-sua">Chân váy linen Hoa Sữa</option>
+              <option value="gio-som">Sơ mi lụa Gió Sớm</option>
+              <option value="chua-biet">Chưa biết, cần gợi ý</option>
+            </select>
+            <p id="loi-mau-quan-tam" class="bao-loi"></p>
+          </div>
+
+          <div class="o-nhap">
+            <label for="chieu-cao">Chiều cao (cm, không bắt buộc)</label>
+            <input type="number" id="chieu-cao" name="chieu-cao" min="140" max="200" aria-describedby="loi-chieu-cao">
+            <p id="loi-chieu-cao" class="bao-loi"></p>
+          </div>
+
+          <div class="o-nhap">
+            <label for="loi-nhan">Lời nhắn *</label>
+            <textarea id="loi-nhan" name="loi-nhan" rows="5" required minlength="10" maxlength="500" placeholder="Ví dụ: Mình cao 160 cm, vòng eo 68 cm, nên chọn size nào?" aria-describedby="loi-loi-nhan"></textarea>
+            <p id="loi-loi-nhan" class="bao-loi"></p>
+          </div>
+
+          <button type="submit" class="nut">Xem lại yêu cầu</button>
+        </form>
+
+        <div id="tom-tat" class="tom-tat an" aria-live="polite">
+          <h3>Tóm tắt yêu cầu của bạn</h3>
+          <ul id="danh-sach-tom-tat"></ul>
+          <p><strong>Lưu ý:</strong> đây là bản mô phỏng. Thông tin chưa được gửi hay lưu ở bất kỳ đâu.</p>
+        </div>
+      </section>
+
+      <section>
+        <h2>Thông tin liên hệ (giả định)</h2>
+        <ul>
+          <li><strong>Đầu mối:</strong> Quốc Bảo – phụ trách tư vấn</li>
+          <li><strong>Email:</strong> hello@soitre.example</li>
+          <li><strong>Điện thoại:</strong> 0900 000 000</li>
+          <li><strong>Địa điểm:</strong> Phòng thực hành B2</li>
+          <li><strong>Giờ hỗ trợ:</strong> 18h – 21h, thứ Hai đến thứ Sáu</li>
+        </ul>
+        <p class="ghi-chu">Tất cả thông tin liên hệ trên là giả định, phục vụ bài thực hành.</p>
+        <h3>Trước khi gửi, bạn nên:</h3>
+        <ol>
+          <li>Đo số đo theo <a href="kich-thuoc.html">hướng dẫn chọn size</a>.</li>
+          <li>Xem lại các mẫu trong <a href="bo-suu-tap.html">bộ sưu tập</a>.</li>
+          <li>Đọc nhanh <a href="hoi-dap.html">câu hỏi thường gặp</a>.</li>
+        </ol>
+        <p>Nhóm không hỏi số điện thoại, địa chỉ hay số đo chi tiết để bảo vệ thông tin của bạn.</p>
+      </section>
+    </div>
+  </main>
+
+  <footer class="chan-trang">
+    <div class="khung">
+      <section>
+        <h2>Sợi Trẻ</h2>
+        <p>Dự án giới thiệu thời trang do sinh viên thiết kế, dành cho sinh viên.</p>
+        <p>Lưu ý: tên thương hiệu, giá, đội ngũ, sự kiện và thông tin liên hệ là giả định phục vụ học tập. Ảnh sản phẩm là ảnh minh họa tạo bằng AI.</p>
+      </section>
+      <section>
+        <h2>Khám phá</h2>
+        <ul>
+          <li><a href="bo-suu-tap.html">Bộ sưu tập</a></li>
+          <li><a href="kich-thuoc.html">Bảng size</a></li>
+          <li><a href="hoi-dap.html">Câu hỏi thường gặp</a></li>
+          <li><a href="lien-he.html">Gửi yêu cầu tư vấn</a></li>
+        </ul>
+      </section>
+      <section>
+        <h2>Liên hệ (giả định)</h2>
+        <p>Email: hello@soitre.example<br>Điện thoại: 0900 000 000<br>Xưởng may: Phòng thực hành B2</p>
+      </section>
+    </div>
+    <p class="ban-quyen">© 2026 Sợi Trẻ – Bài thực hành thiết kế web.</p>
+  </footer>
+
+  <script src="js/form-tu-van.js"></script>
+</body>
+</html>
+

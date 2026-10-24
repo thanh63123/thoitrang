@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bộ sưu tập Phố Mưa và Gió Lụa – Sợi Trẻ</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="dau-trang">
+    <div class="khung">
+      <a class="logo" href="index.html">Sợi<span>Trẻ</span></a>
+      <nav class="menu" aria-label="Menu chính">
+        <ul>
+          <li><a href="index.html">Trang chủ</a></li>
+          <li><a href="gioi-thieu.html">Giới thiệu</a></li>
+          <li><a href="phong-cach.html">Phong cách</a></li>
+          <li><a href="bo-suu-tap.html" class="dang-xem" aria-current="page">Bộ sưu tập</a></li>
+          <li><a href="chat-lieu.html">Chất liệu</a></li>
+          <li><a href="kich-thuoc.html">Kích thước</a></li>
+          <li><a href="thu-vien.html">Thư viện</a></li>
+          <li><a href="hoi-dap.html">Hỏi đáp</a></li>
+          <li><a href="lien-he.html">Liên hệ</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="khung">
+    <p class="duong-dan"><a href="index.html">Trang chủ</a> / Bộ sưu tập</p>
+    <h1>Bộ sưu tập Phố Mưa và Gió Lụa</h1>
+    <p>Có 6 mẫu thuộc 2 bộ sưu tập. Hãy bấm nút để lọc theo bộ sưu tập, hoặc chọn loại trang phục bạn đang tìm.</p>
+
+    <section class="luoi-2">
+      <article class="the">
+        <h2>Phố Mưa</h2>
+        <p>Đồ đường phố cho những ngày đi học gặp mưa bất chợt. Vải dù tái chế nhẹ, kaki dày dặn, nhiều túi tiện dụng.</p>
+      </article>
+      <article class="the">
+        <h2>Gió Lụa</h2>
+        <p>Nét Việt nhẹ nhàng cho dịp đi chơi, đi sự kiện. Lụa tơ tằm pha và linen mềm mát, thêu tay chi tiết nhỏ.</p>
+      </article>
+    </section>
+
+    <section>
+      <h2>Lọc mẫu theo bộ sưu tập</h2>
+      <div class="bo-loc">
+        <button type="button" class="nut nut-vien nut-loc dang-chon" data-bo-suu-tap="tat-ca" aria-pressed="true">Tất cả</button>
+        <button type="button" class="nut nut-vien nut-loc" data-bo-suu-tap="pho-mua" aria-pressed="false">Phố Mưa</button>
+        <button type="button" class="nut nut-vien nut-loc" data-bo-suu-tap="gio-lua" aria-pressed="false">Gió Lụa</button>
+        <label for="chon-loai">Loại trang phục:</label>
+        <select id="chon-loai">
+          <option value="tat-ca">Tất cả loại</option>
+          <option value="ao">Áo</option>
+          <option value="ao-khoac">Áo khoác</option>
+          <option value="quan">Quần</option>
+          <option value="vay">Váy</option>
+        </select>
+      </div>
+      <p id="trang-thai-loc" class="trang-thai-loc" aria-live="polite">Đang hiển thị 6 mẫu.</p>
+
+      <div id="khong-co-ket-qua" class="khong-co-ket-qua an">
+        <p>Chưa có mẫu nào phù hợp với lựa chọn của bạn. Bạn thử chọn bộ sưu tập hoặc loại khác nhé.</p>
+        <button type="button" id="nut-xem-tat-ca" class="nut">Xem tất cả mẫu</button>
+      </div>
+
+      <div id="danh-sach-mau" class="luoi"></div>
+      <noscript><p>Trình duyệt đang tắt JavaScript nên không hiện được danh sách mẫu. Bạn có thể xem ảnh tại trang <a href="thu-vien.html">Thư viện</a>.</p></noscript>
+    </section>
+
+    <section>
+      <h2>Đọc thêm</h2>
+      <ul>
+        <li><a href="chat-lieu.html">Các mẫu được may bằng chất liệu gì?</a></li>
+        <li><a href="kich-thuoc.html">Mẫu nào hợp với số đo của tôi?</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="chan-trang">
+    <div class="khung">
+      <section>
+        <h2>Sợi Trẻ</h2>
+        <p>Dự án giới thiệu thời trang do sinh viên thiết kế, dành cho sinh viên.</p>
+        <p>Lưu ý: tên thương hiệu, giá, đội ngũ, sự kiện và thông tin liên hệ là giả định phục vụ học tập. Ảnh sản phẩm là ảnh minh họa tạo bằng AI.</p>
+      </section>
+      <section>
+        <h2>Khám phá</h2>
+        <ul>
+          <li><a href="bo-suu-tap.html">Bộ sưu tập</a></li>
+          <li><a href="kich-thuoc.html">Bảng size</a></li>
+          <li><a href="hoi-dap.html">Câu hỏi thường gặp</a></li>
+          <li><a href="lien-he.html">Gửi yêu cầu tư vấn</a></li>
+        </ul>
+      </section>
+      <section>
+        <h2>Liên hệ (giả định)</h2>
+        <p>Email: hello@soitre.example<br>Điện thoại: 0900 000 000<br>Xưởng may: Phòng thực hành B2</p>
+      </section>
+    </div>
+    <p class="ban-quyen">© 2026 Sợi Trẻ – Bài thực hành thiết kế web.</p>
+  </footer>
+
+  <script src="js/loc-mau.js"></script>
+</body>
+</html>
+
